@@ -1,0 +1,447 @@
+[
+  {
+    "id": "universal",
+    "title": "环球中国年·有球必应 活动策划",
+    "english": "Universal CNY",
+    "folder": "环球CNY项目",
+    "category": "品牌与活动",
+    "tags": [
+      "活动主视觉",
+      "海报设计"
+    ],
+    "description": "用热烈的中国年色彩连接奇幻世界，让节庆情绪与 IP 叙事融为一体。",
+    "cover": "/images/universal/cover.webp",
+    "background": "#15234c",
+    "images": [
+      {
+        "src": "/images/universal/01.webp",
+        "name": "哈利波特横版海报-1",
+        "width": 1500,
+        "height": 750
+      },
+      {
+        "src": "/images/universal/02.webp",
+        "name": "哈利波特横版海报-2",
+        "width": 1500,
+        "height": 750
+      },
+      {
+        "src": "/images/universal/03.webp",
+        "name": "哈利波特竖版海报-1",
+        "width": 1176,
+        "height": 2000
+      },
+      {
+        "src": "/images/universal/04.webp",
+        "name": "哈利波特竖版海报-2",
+        "width": 1176,
+        "height": 2000
+      },
+      {
+        "src": "/images/universal/05.webp",
+        "name": "环球中国年竖版海报-1",
+        "width": 1176,
+        "height": 2000
+      },
+      {
+        "src": "/images/universal/06.webp",
+        "name": "环球中国年竖版海报-2",
+        "width": 1176,
+        "height": 2000
+      },
+      {
+        "src": "/images/universal/07.webp",
+        "name": "长图",
+        "width": 1425,
+        "height": 2000
+      }
+    ],
+    "preview": {
+      "src": "/images/thumbnails/universal/cover.webp",
+      "width": 1500,
+      "height": 750
+    }
+  },
+  {
+    "id": "dreame",
+    "title": "追觅·洗地机产品图",
+    "english": "Dreame Product Visual",
+    "folder": "追觅洗地机产品图",
+    "category": "产品与电商",
+    "tags": [
+      "产品视觉",
+      "场景设计"
+    ],
+    "description": "从产品结构到生活场景，以光影、材质与空间建立清晰的视觉叙事。",
+    "cover": "/images/dreame/cover.webp",
+    "background": "#ae9b81",
+    "images": [
+      {
+        "src": "/images/dreame/01.webp",
+        "name": "1",
+        "width": 1500,
+        "height": 729
+      },
+      {
+        "src": "/images/dreame/02.webp",
+        "name": "2",
+        "width": 1500,
+        "height": 995
+      },
+      {
+        "src": "/images/dreame/03.webp",
+        "name": "3",
+        "width": 1500,
+        "height": 1066
+      },
+      {
+        "src": "/images/dreame/04.webp",
+        "name": "4",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/dreame/05.webp",
+        "name": "5",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "/images/dreame/06.webp",
+        "name": "6",
+        "width": 1200,
+        "height": 1001
+      },
+      {
+        "src": "/images/dreame/07.webp",
+        "name": "7",
+        "width": 1500,
+        "height": 1095
+      },
+      {
+        "src": "/images/dreame/08.webp",
+        "name": "8",
+        "width": 1500,
+        "height": 1126
+      }
+    ],
+    "preview": {
+      "src": "/images/thumbnails/dreame/cover.webp",
+      "width": 1500,
+      "height": 995
+    }
+  },
+  {
+    "id": "head-shoulders",
+    "title": "海飞丝·玫瑰双抗瓶电商主图",
+    "english": "Head & Shoulders",
+    "folder": "海飞丝玫瑰双抗洗发水电商图",
+    "category": "产品与电商",
+    "tags": [
+      "电商视觉",
+      "产品表达"
+    ],
+    "description": "以玫瑰、柔光与细腻的质感，传递产品的双抗概念与感官体验。",
+    "cover": "/images/head-shoulders/cover.webp",
+    "background": "#e7bdc7",
+    "images": [
+      {
+        "src": "/images/head-shoulders/01.webp",
+        "name": "SEM-1",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/head-shoulders/02.webp",
+        "name": "SEM-2",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/head-shoulders/03.webp",
+        "name": "SEM-3",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/head-shoulders/04.webp",
+        "name": "SEM-4",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/head-shoulders/05.webp",
+        "name": "SEM-5",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "preview": {
+      "src": "/images/thumbnails/head-shoulders/cover.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  },
+  {
+    "id": "taobao-autumn",
+    "title": "淘宝送礼·立秋海报",
+    "english": "Taobao Autumn Campaign",
+    "folder": "淘宝立秋海报",
+    "category": "品牌与活动",
+    "tags": [
+      "节气营销",
+      "海报设计"
+    ],
+    "description": "从一片叶子的轻盈出发，以流动的形态与留白表达秋日的诗意。",
+    "cover": "/images/taobao-autumn/cover.webp",
+    "background": "#f4efdd",
+    "images": [
+      {
+        "src": "/images/taobao-autumn/01.webp",
+        "name": "无标题(1)",
+        "width": 1800,
+        "height": 3900,
+        "preview": {
+          "src": "/images/thumbnails/taobao-autumn/01.webp",
+          "width": 415,
+          "height": 900
+        }
+      },
+      {
+        "src": "/images/taobao-autumn/02.webp",
+        "name": "无标题(2)",
+        "width": 1800,
+        "height": 3900
+      },
+      {
+        "src": "/images/taobao-autumn/03.webp",
+        "name": "无标题(3)",
+        "width": 1800,
+        "height": 3900
+      },
+      {
+        "src": "/images/taobao-autumn/04.webp",
+        "name": "无标题(4)",
+        "width": 1800,
+        "height": 3900
+      },
+      {
+        "src": "/images/taobao-autumn/05.webp",
+        "name": "无标题(5)",
+        "width": 1800,
+        "height": 3900
+      },
+      {
+        "src": "/images/taobao-autumn/06.webp",
+        "name": "无标题(6)",
+        "width": 1800,
+        "height": 3900
+      },
+      {
+        "src": "/images/taobao-autumn/07.webp",
+        "name": "无标题(7)",
+        "width": 1800,
+        "height": 3900
+      },
+      {
+        "src": "/images/taobao-autumn/08.webp",
+        "name": "无标题(8)",
+        "width": 1800,
+        "height": 3900
+      },
+      {
+        "src": "/images/taobao-autumn/09.webp",
+        "name": "无标题",
+        "width": 1800,
+        "height": 3900,
+        "preview": {
+          "src": "/images/thumbnails/taobao-autumn/09.webp",
+          "width": 415,
+          "height": 900
+        }
+      }
+    ],
+    "preview": {
+      "src": "/images/thumbnails/taobao-autumn/cover.webp",
+      "width": 415,
+      "height": 900
+    }
+  },
+  {
+    "id": "ant",
+    "title": "支付宝·你的理财人格H5",
+    "english": "Ant Group Personality",
+    "folder": "蚂蚁集团理财性格测试",
+    "category": "角色与创意",
+    "tags": [
+      "角色视觉",
+      "系列设计"
+    ],
+    "description": "用鲜明的色彩和人物形象，将不同理财性格转化为有记忆点的视觉表达。",
+    "cover": "/images/ant/cover.webp",
+    "background": "#acdaf0",
+    "images": [
+      {
+        "src": "/images/ant/01.webp",
+        "name": "均衡型探索者",
+        "width": 1080,
+        "height": 1920,
+        "preview": {
+          "src": "/images/thumbnails/ant/01.webp",
+          "width": 506,
+          "height": 900
+        }
+      },
+      {
+        "src": "/images/ant/02.webp",
+        "name": "安全型资产管家",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "src": "/images/ant/03.webp",
+        "name": "成长型先锋",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "src": "/images/ant/04.webp",
+        "name": "短线交易达人",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "src": "/images/ant/05.webp",
+        "name": "长线价值猎手",
+        "width": 1080,
+        "height": 1920,
+        "preview": {
+          "src": "/images/thumbnails/ant/05.webp",
+          "width": 506,
+          "height": 900
+        }
+      }
+    ],
+    "preview": {
+      "src": "/images/thumbnails/ant/cover.webp",
+      "width": 506,
+      "height": 900
+    }
+  },
+  {
+    "id": "cofco",
+    "title": "中粮·自然香包装策划",
+    "english": "COFCO Packaging",
+    "folder": "中粮自然香产品包装",
+    "category": "包装设计",
+    "tags": [
+      "包装视觉",
+      "系列设计"
+    ],
+    "description": "以自然色彩与产地意象建立系列语言，让不同产品拥有统一而丰富的表达。",
+    "cover": "/images/cofco/cover.webp",
+    "background": "#dcdfbf",
+    "images": [
+      {
+        "src": "/images/cofco/01.webp",
+        "name": "无标题(1)",
+        "width": 1800,
+        "height": 2600,
+        "preview": {
+          "src": "/images/thumbnails/cofco/01.webp",
+          "width": 623,
+          "height": 900
+        }
+      },
+      {
+        "src": "/images/cofco/02.webp",
+        "name": "无标题(2)",
+        "width": 1800,
+        "height": 2600
+      },
+      {
+        "src": "/images/cofco/03.webp",
+        "name": "无标题(3)",
+        "width": 1800,
+        "height": 2600
+      },
+      {
+        "src": "/images/cofco/04.webp",
+        "name": "无标题(4)",
+        "width": 1800,
+        "height": 2600
+      },
+      {
+        "src": "/images/cofco/05.webp",
+        "name": "无标题(5)",
+        "width": 1800,
+        "height": 2600
+      },
+      {
+        "src": "/images/cofco/06.webp",
+        "name": "无标题",
+        "width": 1800,
+        "height": 2600,
+        "preview": {
+          "src": "/images/thumbnails/cofco/06.webp",
+          "width": 623,
+          "height": 900
+        }
+      }
+    ],
+    "preview": {
+      "src": "/images/thumbnails/cofco/cover.webp",
+      "width": 623,
+      "height": 900
+    }
+  },
+  {
+    "id": "taobao-qixi",
+    "title": "淘宝·七夕海报",
+    "english": "Taobao Qixi Campaign",
+    "folder": "淘宝七夕海报",
+    "category": "品牌与活动",
+    "tags": [
+      "节日营销",
+      "海报设计"
+    ],
+    "description": "从浪漫的花园到梦幻的夜色，用不同画面讲述七夕的心动时刻。",
+    "cover": "/images/taobao-qixi/cover.webp",
+    "background": "#f0c9ce",
+    "images": [
+      {
+        "src": "/images/taobao-qixi/01.webp",
+        "name": "淘宝七夕海报-2",
+        "width": 1080,
+        "height": 2340,
+        "preview": {
+          "src": "/images/thumbnails/taobao-qixi/01.webp",
+          "width": 415,
+          "height": 900
+        }
+      },
+      {
+        "src": "/images/taobao-qixi/02.webp",
+        "name": "淘宝七夕海报",
+        "width": 1080,
+        "height": 2340
+      },
+      {
+        "src": "/images/taobao-qixi/03.webp",
+        "name": "淘宝七夕金晨海报",
+        "width": 1080,
+        "height": 2340,
+        "preview": {
+          "src": "/images/thumbnails/taobao-qixi/03.webp",
+          "width": 415,
+          "height": 900
+        }
+      }
+    ],
+    "preview": {
+      "src": "/images/thumbnails/taobao-qixi/cover.webp",
+      "width": 415,
+      "height": 900
+    }
+  }
+]
