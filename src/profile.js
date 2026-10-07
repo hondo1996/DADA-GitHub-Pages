@@ -8,7 +8,7 @@ export const profile = {
   role: '视觉设计师 / AIGC 设计师',
   englishRole: 'Visual designer & AIGC creator',
   portrait: assetUrl('/images/dada-portrait.webp'),
-  email: '931393158@qq.com',
+  email: 'dada@dada.skin',
   wechat: 'hoondoo',
   introduction: '田宏达，DADA。拥有 7 年视觉设计经验，专注品牌视觉、营销设计与 AIGC 内容生产。擅长将 ComfyUI 工作流、大模型 API 等 AI 工具链接入真实商业项目，让创意从想象走向落地。',
   brands: [
