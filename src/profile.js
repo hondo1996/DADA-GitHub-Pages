@@ -9,7 +9,7 @@ export const profile = {
   englishRole: 'Visual designer & AIGC creator',
   portrait: assetUrl('/images/dada-portrait.webp'),
   email: 'dada@dada.skin',
-  wechat: 'hoondoo',
+  wechat: 'dadaproshop',
   introduction: '田宏达，DADA。拥有 7 年视觉设计经验，专注品牌视觉、营销设计与 AIGC 内容生产。擅长将 ComfyUI 工作流、大模型 API 等 AI 工具链接入真实商业项目，让创意从想象走向落地。',
   brands: [
     { name: '支付宝', logo: assetUrl('/images/brands/alipay.png'), viewBox: '32 0 150 117', displayWidth: 36 },
